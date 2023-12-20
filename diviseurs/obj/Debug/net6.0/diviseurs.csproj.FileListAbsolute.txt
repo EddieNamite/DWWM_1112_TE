@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\diviseurs\bin\Debug\net6.0\diviseurs.exe
+C:\Users\ethiebaut\source\repos\diviseurs\bin\Debug\net6.0\diviseurs.deps.json
+C:\Users\ethiebaut\source\repos\diviseurs\bin\Debug\net6.0\diviseurs.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\diviseurs\bin\Debug\net6.0\diviseurs.dll
+C:\Users\ethiebaut\source\repos\diviseurs\bin\Debug\net6.0\diviseurs.pdb
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.dll
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\refint\diviseurs.dll
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.pdb
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\diviseurs.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\diviseurs\obj\Debug\net6.0\ref\diviseurs.dll

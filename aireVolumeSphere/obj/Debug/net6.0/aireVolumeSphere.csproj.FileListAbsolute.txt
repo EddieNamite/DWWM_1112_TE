@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\bin\Debug\net6.0\aireVolumeSphere.exe
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\bin\Debug\net6.0\aireVolumeSphere.deps.json
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\bin\Debug\net6.0\aireVolumeSphere.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\bin\Debug\net6.0\aireVolumeSphere.dll
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\bin\Debug\net6.0\aireVolumeSphere.pdb
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.dll
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\refint\aireVolumeSphere.dll
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.pdb
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\aireVolumeSphere.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\aireVolumeSphere\obj\Debug\net6.0\ref\aireVolumeSphere.dll

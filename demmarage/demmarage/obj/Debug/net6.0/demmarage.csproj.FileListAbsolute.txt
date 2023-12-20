@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\bin\Debug\net6.0\demmarage.exe
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\bin\Debug\net6.0\demmarage.deps.json
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\bin\Debug\net6.0\demmarage.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\bin\Debug\net6.0\demmarage.dll
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\bin\Debug\net6.0\demmarage.pdb
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.dll
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\refint\demmarage.dll
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.pdb
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\demmarage.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\demmarage\demmarage\obj\Debug\net6.0\ref\demmarage.dll

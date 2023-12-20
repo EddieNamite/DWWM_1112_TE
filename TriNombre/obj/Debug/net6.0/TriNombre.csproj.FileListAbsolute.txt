@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\TriNombre\bin\Debug\net6.0\TriNombre.exe
+C:\Users\ethiebaut\source\repos\TriNombre\bin\Debug\net6.0\TriNombre.deps.json
+C:\Users\ethiebaut\source\repos\TriNombre\bin\Debug\net6.0\TriNombre.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\TriNombre\bin\Debug\net6.0\TriNombre.dll
+C:\Users\ethiebaut\source\repos\TriNombre\bin\Debug\net6.0\TriNombre.pdb
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.dll
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\refint\TriNombre.dll
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.pdb
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\TriNombre.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\TriNombre\obj\Debug\net6.0\ref\TriNombre.dll

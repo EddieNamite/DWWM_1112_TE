@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\anneeBissextile\bin\Debug\net6.0\anneeBissextile.exe
+C:\Users\ethiebaut\source\repos\anneeBissextile\bin\Debug\net6.0\anneeBissextile.deps.json
+C:\Users\ethiebaut\source\repos\anneeBissextile\bin\Debug\net6.0\anneeBissextile.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\anneeBissextile\bin\Debug\net6.0\anneeBissextile.dll
+C:\Users\ethiebaut\source\repos\anneeBissextile\bin\Debug\net6.0\anneeBissextile.pdb
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.dll
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\refint\anneeBissextile.dll
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.pdb
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\anneeBissextile.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\anneeBissextile\obj\Debug\net6.0\ref\anneeBissextile.dll

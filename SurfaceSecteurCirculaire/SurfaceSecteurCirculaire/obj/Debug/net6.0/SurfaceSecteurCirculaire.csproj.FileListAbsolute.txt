@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\bin\Debug\net6.0\SurfaceSecteurCirculaire.exe
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\bin\Debug\net6.0\SurfaceSecteurCirculaire.deps.json
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\bin\Debug\net6.0\SurfaceSecteurCirculaire.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\bin\Debug\net6.0\SurfaceSecteurCirculaire.dll
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\bin\Debug\net6.0\SurfaceSecteurCirculaire.pdb
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.dll
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\refint\SurfaceSecteurCirculaire.dll
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.pdb
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\SurfaceSecteurCirculaire.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\SurfaceSecteurCirculaire\SurfaceSecteurCirculaire\obj\Debug\net6.0\ref\SurfaceSecteurCirculaire.dll

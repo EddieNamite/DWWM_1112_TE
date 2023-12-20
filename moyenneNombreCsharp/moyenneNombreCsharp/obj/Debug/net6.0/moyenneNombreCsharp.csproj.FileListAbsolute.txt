@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\bin\Debug\net6.0\moyenneNombreCsharp.exe
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\bin\Debug\net6.0\moyenneNombreCsharp.deps.json
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\bin\Debug\net6.0\moyenneNombreCsharp.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\bin\Debug\net6.0\moyenneNombreCsharp.dll
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\bin\Debug\net6.0\moyenneNombreCsharp.pdb
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.dll
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\refint\moyenneNombreCsharp.dll
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.pdb
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\moyenneNombreCsharp.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\moyenneNombreCsharp\moyenneNombreCsharp\obj\Debug\net6.0\ref\moyenneNombreCsharp.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aireVolumeCsharp", "aireVolumeCsharp.csproj", "{4E82F142-DA28-4D7E-B92C-E78EE4C2278A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E82F142-DA28-4D7E-B92C-E78EE4C2278A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E82F142-DA28-4D7E-B92C-E78EE4C2278A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E82F142-DA28-4D7E-B92C-E78EE4C2278A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E82F142-DA28-4D7E-B92C-E78EE4C2278A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B7543F-7F97-4994-8336-B87BED263037}
+	EndGlobalSection
+EndGlobal

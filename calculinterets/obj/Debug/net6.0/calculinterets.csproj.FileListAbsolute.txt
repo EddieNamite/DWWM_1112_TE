@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\calculinterets\bin\Debug\net6.0\calculinterets.exe
+C:\Users\ethiebaut\source\repos\calculinterets\bin\Debug\net6.0\calculinterets.deps.json
+C:\Users\ethiebaut\source\repos\calculinterets\bin\Debug\net6.0\calculinterets.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\calculinterets\bin\Debug\net6.0\calculinterets.dll
+C:\Users\ethiebaut\source\repos\calculinterets\bin\Debug\net6.0\calculinterets.pdb
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.dll
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\refint\calculinterets.dll
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.pdb
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\calculinterets.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\calculinterets\obj\Debug\net6.0\ref\calculinterets.dll

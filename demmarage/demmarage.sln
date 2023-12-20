@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demmarage", "demmarage\demmarage.csproj", "{096DC744-C114-4B82-BE97-504C02CD0EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096DC744-C114-4B82-BE97-504C02CD0EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096DC744-C114-4B82-BE97-504C02CD0EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096DC744-C114-4B82-BE97-504C02CD0EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096DC744-C114-4B82-BE97-504C02CD0EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5565AB5-54B8-4E98-AA1A-75C2755CA2C8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.csproj.AssemblyReference.cache
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.AssemblyInfoInputs.cache
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.AssemblyInfo.cs
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.csproj.CoreCompileInputs.cache
+C:\Users\ethiebaut\source\repos\comparaison\bin\Debug\net6.0\comparaison.exe
+C:\Users\ethiebaut\source\repos\comparaison\bin\Debug\net6.0\comparaison.deps.json
+C:\Users\ethiebaut\source\repos\comparaison\bin\Debug\net6.0\comparaison.runtimeconfig.json
+C:\Users\ethiebaut\source\repos\comparaison\bin\Debug\net6.0\comparaison.dll
+C:\Users\ethiebaut\source\repos\comparaison\bin\Debug\net6.0\comparaison.pdb
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.dll
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\refint\comparaison.dll
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.pdb
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\comparaison.genruntimeconfig.cache
+C:\Users\ethiebaut\source\repos\comparaison\obj\Debug\net6.0\ref\comparaison.dll
